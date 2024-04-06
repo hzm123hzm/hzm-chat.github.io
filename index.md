@@ -12,8 +12,9 @@ Welcome
 *   [稳定高速的魔法](https://sttlink.com/auth/register?code=KbzI)
 
 相关主页
-*   [Github](https://github.com/arcxingye)
-*   [个人博客](https://xingye.me/)
+*   [Github](https://github.com/)
+*   [poki](https://poki.cn/)
+*   [bili](https://www.bilibili.cn/)
 
 本页仅供海外华人访问其它访问责任自负。
 
